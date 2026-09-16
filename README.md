@@ -1,26 +1,53 @@
-﻿<div align="center">
+﻿<!-- BANNER -->
+<div align="center">
+  <img src="./banner.jpg" alt="Ali Raza - Full Stack Developer" width="100%" />
+</div>
 
-  <!-- Animated Typing Header -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hey+there!+I%27m+Ali+Raza+%F0%9F%91%8B;Full+Stack+%26+Mobile+Developer+%F0%9F%9A%80;Building+cool+things+with+code+%F0%9F%92%BB;Always+learning%2C+always+growing+%F0%9F%8C%B1" alt="Typing SVG" />
+<br/>
 
-  <!-- Profile views counter -->
-  <img src="https://komarev.com/ghpvc/?username=AliRaza30&label=Profile%20views&color=a855f7&style=flat" alt="AliRaza30" />
+<!-- ANIMATED TYPING -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Ali+Raza+👋;Full+Stack+%26+Mobile+Developer+🚀;CS+Student+from+Pakistan+🇵🇰;Always+learning%2C+always+growing+🌱" alt="Typing SVG" />
 
+  <img src="https://komarev.com/ghpvc/?username=AliRaza30&label=Profile%20views&color=a855f7&style=flat" alt="Profile Views" />
 </div>
 
 ---
 
+<!-- ABOUT ME -->
 ## 🙋‍♂️ About Me
 
+<img align="right" src="https://github.com/AliRaza30.png" width="180px" style="border-radius:50%; margin-left:20px;" alt="Ali Raza" />
+
+### 👨‍💻 Ali Raza | Passionate Full Stack Developer from Pakistan 🇵🇰
+
+- 🎓 **Computer Science Student** passionate about building real-world solutions
+- 🌍 Based in **Pakistan 🇵🇰**
+- 💡 Open Source Enthusiast | Problem Solver | Coffee Addict ☕
+- 🚀 I love building **scalable web apps**, **mobile apps**, and **AI-powered solutions**
+- 🧠 Passionate about writing **clean, efficient code** and solving real-world problems
+- ⚡ Full Stack & Mobile dev who loves turning **complex problems into elegant solutions**
+- 🌱 Currently exploring **AI/ML**, **Cloud-native** architectures & **LLM fine-tuning**
+- 💬 Ask me about **React, Flutter, Python, Django, FastAPI** or anything tech!
+- 🎯 **2024 Goal:** Contribute more to open source & build impactful products
+
+<br clear="right"/>
+
+---
+
+<!-- ABOUT ME CODE BLOCK -->
 ```typescript
 const AliRaza = {
-  role: ["Full Stack Developer", "Mobile Developer", "Data Scientist"],
-  code: ["Python", "JavaScript", "TypeScript", "Java", "C++", "C#", "Dart", "Kotlin", "Swift", "Go"],
-  tools: ["React", "Next.js", "Vue.js", "Flutter", "Node.js", "Django", "FastAPI", "Spring Boot"],
-  cloud:  ["AWS", "Azure", "GCP", "Docker", "Kubernetes"],
-  ai_ml:  ["TensorFlow", "PyTorch"],
-  currentlyLearning: "Something new every single day 🚀",
-  funFact: "I debug with console.log and I am not ashamed 😄",
+  name:     "Ali Raza",
+  location: "Pakistan 🇵🇰",
+  role:     ["Full Stack Developer", "Mobile Developer", "Data Scientist"],
+  education: "Computer Science Student 🎓",
+  languages: ["Python", "JavaScript", "TypeScript", "Java", "C++", "C#", "Dart", "Kotlin", "Swift", "Go"],
+  frameworks: ["React", "Next.js", "Vue.js", "Flutter", "Node.js", "Django", "FastAPI", "Spring Boot"],
+  cloud:     ["AWS", "Azure", "GCP", "Docker", "Kubernetes"],
+  ai_ml:     ["TensorFlow", "PyTorch"],
+  hobbies:   ["Coding 💻", "Gaming 🎮", "Problem Solving 🧩", "Coffee ☕"],
+  motto:     "Code. Build. Ship. Repeat. 🚀",
 };
 ```
 
@@ -103,6 +130,7 @@ const AliRaza = {
 - 🌙 Night owl coder — best ideas come after midnight
 - 🎮 Gamer when I am not coding
 - 🧩 I love solving complex algorithms just for fun
+- 🤝 Always happy to collaborate on cool open-source projects!
 
 ---
 
@@ -112,6 +140,8 @@ const AliRaza = {
   <img src="https://github-profile-trophy.vercel.app/?username=AliRaza30&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" width="100%" alt="GitHub Trophies" />
 
   ---
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=A855F7&height=100&section=footer" width="100%" />
 
   ⭐️ **From [AliRaza30](https://github.com/AliRaza30) with ❤️**
 
