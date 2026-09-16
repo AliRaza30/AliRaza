@@ -1,136 +1,118 @@
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <a href="https://github.com/your_username/repo_name">
-    <!-- Replace with your actual logo -->
-    <img src="https://via.placeholder.com/150" alt="Logo" width="80" height="80">
-  </a>
+﻿<div align="center">
 
-  <h3 align="center">Project Name</h3>
+  <!-- Animated Typing Header -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hey+there!+I%27m+Ali+Raza+%F0%9F%91%8B;Full+Stack+%26+Mobile+Developer+%F0%9F%9A%80;Building+cool+things+with+code+%F0%9F%92%BB;Always+learning%2C+always+growing+%F0%9F%8C%B1" alt="Typing SVG" />
 
-  <p align="center">
-    An awesome project that does amazing things!
-    <br />
-    <a href="https://github.com/your_username/repo_name"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/your_username/repo_name">View Demo</a>
-    ·
-    <a href="https://github.com/your_username/repo_name/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/your_username/repo_name/issues">Request Feature</a>
-  </p>
-</div>
+  <!-- Profile views counter -->
+  <img src="https://komarev.com/ghpvc/?username=AliRaza30&label=Profile%20views&color=a855f7&style=flat" alt="AliRaza30" />
 
-<!-- BADGES -->
-<div align="center">
-  <img src="https://img.shields.io/github/license/your_username/repo_name?style=for-the-badge" alt="License">
-  <img src="https://img.shields.io/github/stars/your_username/repo_name?style=for-the-badge" alt="Stars">
-  <img src="https://img.shields.io/github/issues/your_username/repo_name?style=for-the-badge" alt="Issues">
 </div>
 
 ---
 
-## 📖 About The Project
+## 🙋‍♂️ About Me
 
-<!-- Replace with a screenshot or demo GIF -->
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Here is a brief description of what your project does and why it exists. You can talk about the problem it solves, the motivation behind it, and what makes it unique. Keep it concise but informative.
-
-### ✨ Key Features
-
-* **Feature 1:** Description of the first feature.
-* **Feature 2:** Description of the second feature.
-* **Feature 3:** Description of the third feature.
-
-### 🛠️ Built With
-
-Major frameworks/libraries used to bootstrap your project.
-
-* [![React][React.js]][React-url]
-* [![Node.js][Node.js]][Node-url]
-* [![Tailwind CSS][Tailwind.css]][Tailwind-url]
-
-<!-- Add or remove as necessary -->
+```typescript
+const AliRaza = {
+  role: ["Full Stack Developer", "Mobile Developer", "Data Scientist"],
+  code: ["Python", "JavaScript", "TypeScript", "Java", "C++", "C#", "Dart", "Kotlin", "Swift", "Go"],
+  tools: ["React", "Next.js", "Vue.js", "Flutter", "Node.js", "Django", "FastAPI", "Spring Boot"],
+  cloud:  ["AWS", "Azure", "GCP", "Docker", "Kubernetes"],
+  ai_ml:  ["TensorFlow", "PyTorch"],
+  currentlyLearning: "Something new every single day 🚀",
+  funFact: "I debug with console.log and I am not ashamed 😄",
+};
+```
 
 ---
 
-## 🚀 Getting Started
+## 🛠️ Tech Stack & Tools
 
-To get a local copy up and running, follow these simple example steps.
+### 👨‍💻 Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+</p>
 
-### Prerequisites
+### 🚀 Frameworks & Libraries
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
+  <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+</p>
 
-List things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
-### Installation
-
-1. Clone the repo
-   ```sh
-   git clone https://github.com/your_username/repo_name.git
-   ```
-2. Install NPM packages
-   ```sh
-   npm install
-   ```
-3. Set up environment variables
-   ```sh
-   cp .env.example .env
-   ```
-4. Run the project
-   ```sh
-   npm start
-   ```
-
----
-
-## 💻 Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples, and demos work well in this space. You may also link to more documentation.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
----
-
-## 🤝 Contributing
-
-Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+### ☁️ Cloud & DevOps
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+</p>
 
 ---
 
-## 📜 License
+## 📊 GitHub Stats
 
-Distributed under the MIT License. See `LICENSE` for more information.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AliRaza30&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF&rank_icon=github" width="48%" alt="Ali GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AliRaza30&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" width="48%" alt="Ali GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliRaza30&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF&langs_count=10" width="50%" alt="Top Languages" />
+</div>
 
 ---
 
-## 📫 Contact
+## 📈 Contribution Graph
 
-Your Name - [@your_twitter](https://twitter.com/your_twitter) - email@example.com
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AliRaza30&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
+</div>
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+---
 
+## 🌱 Currently Learning
 
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[product-screenshot]: https://via.placeholder.com/800x400
-[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[React-url]: https://reactjs.org/
-[Node.js]: https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white
-[Node-url]: https://nodejs.org/
-[Tailwind.css]: https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
-[Tailwind-url]: https://tailwindcss.com/
+- 🤖 Advanced AI/ML models & LLM fine-tuning
+- ☁️ Cloud-native architecture & microservices
+- 📱 Cross-platform app development with Flutter
+- 🔐 Cybersecurity & secure coding practices
+
+---
+
+## ⚡ Fun Facts
+
+- 💡 I turn coffee ☕ into code
+- 🌙 Night owl coder — best ideas come after midnight
+- 🎮 Gamer when I am not coding
+- 🧩 I love solving complex algorithms just for fun
+
+---
+
+<div align="center">
+
+  ### 🏆 GitHub Trophies
+  <img src="https://github-profile-trophy.vercel.app/?username=AliRaza30&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" width="100%" alt="GitHub Trophies" />
+
+  ---
+
+  ⭐️ **From [AliRaza30](https://github.com/AliRaza30) with ❤️**
+
+</div>
